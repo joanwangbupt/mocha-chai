@@ -1,0 +1,28 @@
+{
+  "name": "mocha-chai",
+  "version": "1.0.0",
+  "description": "mocha-chai api automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joanwangbupt/mocha-chai.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "api"
+  ],
+  "author": "Joan Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joanwangbupt/mocha-chai/issues"
+  },
+  "homepage": "https://github.com/joanwangbupt/mocha-chai#readme",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
